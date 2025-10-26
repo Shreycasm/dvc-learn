@@ -1,0 +1,5 @@
+outs:
+- md5: b0524de8552849213b8a47fa81ff380e
+  size: 753025
+  hash: md5
+  path: SpaceshipTitanic.csv
